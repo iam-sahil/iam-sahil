@@ -1,25 +1,42 @@
-#### Hey, I'm Sahil Rana
-# Frontend Developer
+```console
+iam-sahil@github:~$ ./welcome.sh
+```
 
-<hr>
+<img align="left" src="https://github.com/iam-sahil/iam-sahil/blob/main/hi.jpg" alt="Hi" width="320"/>
 
-# 💻 Currently Learning: <br>
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+```
+iam-sahil@github:~$ ./aboutme.sh
 
-<hr>
+iam-sahil
+---------------------------------------------
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+🏫 Computer Science student
+🔎 Main interests in Web Dev, Scripting, Ricing & Cybersec
+🔭 Working on AI safety jailbreak solutions
+🌱 Learning about Web Development and Machine Learning stuff
+🌟 Main languages: Javascript, Python, Bash, Powershell
+🏴‍☠️ Currently not doing shit
+🎵 Love anything I can listen to on repeat for days
+⚡ Love ketchup (but not on pasta) 🍅
+💕 Anime, Linux ricing, Cats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iam-sahil&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iam-sahil&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sahil&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---------------------------------------------
+```
+```
+CATching bugs in code...
 
+       \`*-.    [me]
+        )  _`-.
+       .  : `. .
+       : _   '  \
+       ; *` _.   `*-._
+       `-.-'          `-.
+         ;       `       `.
+         :.       .        \
+         . \  .   :   .-'   .
+         '  `+.;  ;  '      :
+         :  '  |    ;       ;-.
+         ; '   : :`-:     _.`* ;
+[bug] .*' /  .*' ; .*`- +'  `*'
+      `*-*   `*-*  `*-*'
+```
