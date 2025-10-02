@@ -8,6 +8,7 @@ iam-sahil@github:~$ ./welcome.sh
 iam-sahil@github:~$ ./aboutme.sh
 
 iam-sahil
+---------------------------------------------
 
 🏫 Computer Science student
 🔎 Main interests in Web Dev, Scripting, Ricing & Cybersec
